@@ -9,4 +9,4 @@ This project is a part of teaches Distributed Systems class of UERGS.
 You can find the part of Android Phone Project on App Inventor:
 https://gallery.appinventor.mit.edu/?galleryid=844528d1-a1cc-464e-acf5-40eac1213672
 
-The project part applied for ESP32 was developed with Arduino IDE. You can find this file on directory "Project-Tic-Tac-Toe-With-ESP32".
+The project part applied for ESP32 was developed with Arduino IDE. You can find this file on "ismael-BTSrvTicTacToe.ino". This is the Arduino IDE Project file.
